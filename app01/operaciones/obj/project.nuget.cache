@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z4ErJsccM2r3S9iWsOZ0Tg2kJ1s4BkKCVZkCYcgIOkzEc3nwzY+7f4vw+3TRxH6ODcXcP+edSrHxPunoaRLCGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leandro\\source\\repos\\app01\\operaciones\\operaciones.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leandro\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\leandro\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -29,14 +29,15 @@
         private void InitializeComponent()
         {
             this.btn1 = new System.Windows.Forms.Button();
+            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.SuspendLayout();
             // 
             // btn1
             // 
             this.btn1.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn1.Location = new System.Drawing.Point(330, 180);
+            this.btn1.Location = new System.Drawing.Point(182, 110);
             this.btn1.Name = "btn1";
-            this.btn1.Size = new System.Drawing.Size(173, 64);
+            this.btn1.Size = new System.Drawing.Size(196, 56);
             this.btn1.TabIndex = 0;
             this.btn1.Text = "button1";
             this.btn1.UseVisualStyleBackColor = true;
@@ -57,6 +58,7 @@
         #endregion
 
         private System.Windows.Forms.Button btn1;
+        private System.ComponentModel.BackgroundWorker backgroundWorker1;
     }
 }
 

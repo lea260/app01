@@ -1,0 +1,8 @@
+C:\Users\leandro\source\repos\app01\operaciones\bin\Debug\netstandard2.0\operaciones.deps.json
+C:\Users\leandro\source\repos\app01\operaciones\bin\Debug\netstandard2.0\operaciones.dll
+C:\Users\leandro\source\repos\app01\operaciones\bin\Debug\netstandard2.0\operaciones.pdb
+C:\Users\leandro\source\repos\app01\operaciones\obj\Debug\netstandard2.0\operaciones.AssemblyInfoInputs.cache
+C:\Users\leandro\source\repos\app01\operaciones\obj\Debug\netstandard2.0\operaciones.AssemblyInfo.cs
+C:\Users\leandro\source\repos\app01\operaciones\obj\Debug\netstandard2.0\operaciones.csproj.CoreCompileInputs.cache
+C:\Users\leandro\source\repos\app01\operaciones\obj\Debug\netstandard2.0\operaciones.dll
+C:\Users\leandro\source\repos\app01\operaciones\obj\Debug\netstandard2.0\operaciones.pdb
