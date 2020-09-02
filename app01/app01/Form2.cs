@@ -33,7 +33,10 @@ namespace app01
         private void dtgvProductos_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             int n = e.RowIndex;
-            if (n!=-1)
+            if (n != -1)
+            {
+                string valor = (string) dtgvProductos.Rows[n].Cells[1].Value; 
+            }
         }
     }
 }
