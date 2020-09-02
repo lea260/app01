@@ -28,37 +28,12 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.btn1 = new System.Windows.Forms.Button();
-            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
-            this.SuspendLayout();
-            // 
-            // btn1
-            // 
-            this.btn1.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn1.Location = new System.Drawing.Point(182, 110);
-            this.btn1.Name = "btn1";
-            this.btn1.Size = new System.Drawing.Size(196, 56);
-            this.btn1.TabIndex = 0;
-            this.btn1.Text = "button1";
-            this.btn1.UseVisualStyleBackColor = true;
-            this.btn1.Click += new System.EventHandler(this.btn1_Click);
-            // 
-            // Form1
-            // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(997, 537);
-            this.Controls.Add(this.btn1);
-            this.Name = "Form1";
-            this.Text = " ";
-            this.ResumeLayout(false);
-
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Text = "Form1";
         }
 
         #endregion
-
-        private System.Windows.Forms.Button btn1;
-        private System.ComponentModel.BackgroundWorker backgroundWorker1;
     }
 }
-

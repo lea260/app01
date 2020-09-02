@@ -16,18 +16,5 @@ namespace app01
         {
             InitializeComponent();
         }
-
-        private void btn1_Click(object sender, EventArgs e)
-        {
-            int a = 6;
-            int b = 5;
-            int c = 0;
-            c = a + b;
-
-            if (c > 5)
-            {
-                c = 4;
-            }
-        }
     }
 }
